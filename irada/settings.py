@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-pf9mc*()nz*70q5*ta^7&adg1p71+)0l9(@(us)s(+^bvo@4$_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*','iradaapi.live']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
