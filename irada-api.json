@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "irada-api",
+  "private_key_id": "9163d7c42c16dd4ad9b022137438c4f72d9a8bc4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRm++giSzE/ALS\nH0fXjzhl77U5BiineN2PfZMwhDJPTZqXes0VnLE6UXwZ7u0fXIzEFgPfRSY38er3\nzJCu8tXr5VyZH9s4XoTyn2JllselIJr/8y0CjfE+/htkkYRG3pu2wjWyzuyeKPAZ\nNCwr4vwCO6oOP4e/vEQTHt8Dr0Fqfkxq+OGxP8TyV6E9oaNH/wgNI7AnfuWIkB8A\nh6O9rYzz6RgvWgirzGiJGmd0VjFPgxKhHYU/zCc5nBw2kIimx7DkaKBW5B6nOXD4\nMnE6mzcyBea9ZWf4Dk0VpTHT+joKceLtaHDFWwr9OkaILjRFjC1Xju7WoxnSdhPW\ndWgE2u9LAgMBAAECggEARkRyNm0F9xtMjsgxu0+l5nZPWEh6RHo+PCYqu671dqRb\nWMCwE7itqRE7+y2fjE3oWqvOrIBv6X1N+bg4II4DrMr9GdAWG3WEOBm6ULgVQYQG\nshsBUcPnxehFopctstxZcxD0E3dO1059/tUAoc28EbuSrKgbh+lDIO3OcVvFID+O\nt+ScGQjnGbdwHL3Ys6wlYp0k/A+6R3iUTHrMcqOIkBt66+eDhSfmopglch91J/Ut\nwv2Fl5EmBXJfvY88Vo+v5myY1a/CmeLGdOfalbdeGsdgt0DMgcfaXx8aAEL9ilW8\nW3T0h5Qiu+kk14FvfpskTq2QeF6Z0HMCWh+hiNSKIQKBgQD+r3uo4oihf0usR5fK\n5bMH2F7pPfnFuTYYiuDWsiyTt1PzjPUSxmRcVyuXhlcrFydcjTvni/+8W+vqLp37\nNuOGQAB5IhZPvNfUgtya/swcVd23KlzDAdqKTr0hT9HOcqUtFHl16/S/HXi5jqjP\nsihRnmBe5cbjdvpZlpw7+ZagMwKBgQDSsOS3on69cDh4cWm5+imXTb6y/v+b2IwE\nHeW2WlfZtbgKkFQMVJ9OGCwaRJXQFzEpFVubu2kTO+1VJtZ+u/ruAKnhZ+1V/hqr\nEvCnlUCTn0qouiT2T54NCX5dkX/0ThiO9ipWLGESkVZ7I6ELLd5EJyhHrKKr3qef\ntzbWOz/8iQKBgDIxe3mJS8woPk2xvmSqaGI/blUhdbxWCCdGF5G4g7iJBO6W9SXC\nG71nIJw4Sa2gXo2K+CdmG/yPUStSDKiZ5LVsn6s/4I3OderX74pMdQWQlqWmn6l/\nEAb6BaQvCvZY+dyskFOBMTcJI+XOC88DGZccU3ngZxYlOKm3WQso4VqpAoGAG+OE\ncvZUdnj7UJ4ak56UkM2et4zfgt6YMhdPB+NPi6btNKDEL1moOKskc1muxvu66yhD\nlwqorv4YvVPFwsLZRVXbJtYd6WsYVprMNjKgeKn2NP1m1R/W2PzvuC0BVfJcd9gH\n5J49Pzrzypr9v0AUEstoHoywf7WaVJ7o6FSxdJkCgYEAqzLXcnUbm/zH14rxXJSS\nlEiKc3ppRwxsfvb3EBFaAdt2X5A+3yaEfJN1rJVFORITZu/Ww3WN9GZ0ovXs8liS\nPSXQNQ350m1UiGSpwC/TzhqUtaDf/yXtXgmtVPgimzhDymGPAmBUgJn/koiemVE8\n2Ddfw4L2CG1bSoWBhgL77ow=\n-----END PRIVATE KEY-----\n",
+  "client_email": "irada-612@irada-api.iam.gserviceaccount.com",
+  "client_id": "117683725281005343352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/irada-612%40irada-api.iam.gserviceaccount.com"
+}
